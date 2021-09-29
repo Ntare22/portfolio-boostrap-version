@@ -1,0 +1,13 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.navbar-item {
+  color: #344563;
+}
+
+.navbar-item:hover {
+  color: #344563;
+  text-decoration-color: #344563;
+  text-decoration: none;
+}
