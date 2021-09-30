@@ -13,16 +13,27 @@ body {
 }
 
 .backdrop {
-  background-image: url("../images/line.svg"), url("../images//line2.svg"),
-    url("../images/line3.svg"), url("../images/line4.svg"),
-    url("../images/line5.svg"), url("../images/line6.svg"),
-    url("../images/line7.svg"), url("../images/line8.svg"),
-    url("../images/line9.svg"), url("../images/line10.svg"),
-    url("../images/line11.svg"), url("../images//line12.svg"),
-    url("../images/line13.svg"), url("../images/line14.svg"),
-    url("../images/group.svg"), url("../images/group2.svg"),
-    url("../images/group3.svg"), url("../images/group4.svg"),
-    url("../images/group5.svg"), url("../images/group6.svg");
+  background-image:
+    url("../images/line.svg"),
+    url("../images//line2.svg"),
+    url("../images/line3.svg"),
+    url("../images/line4.svg"),
+    url("../images/line5.svg"),
+    url("../images/line6.svg"),
+    url("../images/line7.svg"),
+    url("../images/line8.svg"),
+    url("../images/line9.svg"),
+    url("../images/line10.svg"),
+    url("../images/line11.svg"),
+    url("../images//line12.svg"),
+    url("../images/line13.svg"),
+    url("../images/line14.svg"),
+    url("../images/group.svg"),
+    url("../images/group2.svg"),
+    url("../images/group3.svg"),
+    url("../images/group4.svg"),
+    url("../images/group5.svg"),
+    url("../images/group6.svg");
   background-repeat: no-repeat;
   background-position: left 15% top 0, left 30% top 0, right 20% top 0,
     right 10% top 20%, right 10% top 40%, right 15% top 60%, right 25% top 80%,
