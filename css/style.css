@@ -35,11 +35,26 @@ body {
     url("../images/group5.svg"),
     url("../images/group6.svg");
   background-repeat: no-repeat;
-  background-position: left 15% top 0, left 30% top 0, right 20% top 0,
-    right 10% top 20%, right 10% top 40%, right 15% top 60%, right 25% top 80%,
-    right 38% top 90%, left 50% top 90%, left 40% top 90%, left 25% top 80%,
-    left 10% top 60%, left 7% top 40%, left 7% top 20%, left 2% top 10%,
-    right -2% top 5%, left 10% top 50%, left 40% top 55%, right 20% top 60%,
+  background-position:
+    left 15% top 0,
+    left 30% top 0,
+    right 20% top 0,
+    right 10% top 20%,
+    right 10% top 40%,
+    right 15% top 60%,
+    right 25% top 80%,
+    right 38% top 90%,
+    left 50% top 90%,
+    left 40% top 90%,
+    left 25% top 80%,
+    left 10% top 60%,
+    left 7% top 40%,
+    left 7% top 20%,
+    left 2% top 10%,
+    right -2% top 5%,
+    left 10% top 50%,
+    left 40% top 55%,
+    right 20% top 60%,
     right 10% top -7%;
   height: 1000px;
   position: absolute;
